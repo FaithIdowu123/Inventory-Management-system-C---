@@ -8,14 +8,18 @@ using namespace std;
 class Item{
     private:
         string name;
-        int price;
+        float price;
         int quantity;
     public:
-        Item(string name, int price, int quantity);
+        Item(string name, float price, int quantity);
+        string getName();
+        float getPrice();
+        int getQuantity();
         void updateName(string name);
-        void updatePrice(int price);
+        void updatePrice(float price);
         void updateQuantity(int quantity);
         void display();
+        string getSaveFormat();
 };
 
 #endif
