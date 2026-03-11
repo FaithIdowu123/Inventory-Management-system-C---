@@ -6,7 +6,7 @@ The purpose of this software is to strengthen my understanding of C++ programmin
 
 This project demonstrates important C++ concepts such as classes, lists from the Standard Template Library, file streams, and modular program design. Building this program helped me better understand how data can be stored, modified, and persisted using files.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Inventory Manager demonstration video](https://youtu.be/W8k0AIKh6pk)
 
 # Development Environment
 
